@@ -1,1 +1,1 @@
-Making Keeper App for React practice
+Making Keeper App for React frontend practice
